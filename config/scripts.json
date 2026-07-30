@@ -1,0 +1,14 @@
+{
+    "pub-git": {
+        "cwd": "/home/amruth/Downloads/pro/django",
+        "command": "./pub-git"
+    },
+    "rfp-backup": {
+        "cwd": "/home/amruth/Downloads/pro/django",
+        "command": "./rfp-backup"
+    },
+    "update-server": {
+        "cwd": "/home/amruth/server",
+        "command": "./update"
+    }
+}
