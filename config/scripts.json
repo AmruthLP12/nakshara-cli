@@ -10,5 +10,13 @@
     "update-server": {
         "cwd": "/home/amruth/server",
         "command": "./update"
+    },
+    "rms-backup": {
+        "cwd": "/home/amruth/Downloads/pro/django",
+        "command": "./rms-backup"
+    },
+    "rms2-backup": {
+        "cwd": "/home/amruth/Downloads/pro/django",
+        "command": "./rms2-backup"
     }
 }
