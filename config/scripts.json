@@ -18,5 +18,9 @@
     "rms2-backup": {
         "cwd": "/home/amruth/Downloads/pro/django",
         "command": "./rms2-backup"
+    },
+    "erp-backup": {
+        "cwd": "/home/amruth/Downloads/pro/django",
+        "command": "./erp-backup"
     }
 }
